@@ -36,7 +36,9 @@ gcc main.c -o hu-risc-v_emu -std=c11
 ```
 
 ### Execution
-The emulator requires two binary files to run: the instruction memory and the data memory. 
+*Note: The original binary testbenches provided by Humboldt-Universität zu Berlin are not included in this repository due to academic copyright restrictions.*
+
+To test the emulator, you can compile your own RISC-V assembly programs into flat binary files or use standard RV32IMC test suites. The emulator requires two binary files to run: the instruction memory and the data memory. 
 
 ```bash
 ./hu-risc-v_emu <path_to_instruction_memory.bin> <path_to_data_memory.bin>
