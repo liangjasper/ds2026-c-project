@@ -3,7 +3,7 @@
 //  Digitale Systeme SoSe 2026
 //  C-Programmierprojekt: RV32IMC-Emulator
 //
-//  Jasper Liang (627991)
+//  Jasper Liang
 //
 //  main.c
 //  Erstellt von Jasper Liang am 20.08.2026
